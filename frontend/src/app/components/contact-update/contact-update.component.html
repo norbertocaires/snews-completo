@@ -14,7 +14,7 @@
 					<label>Gênero</label><br/>
 					<select class="form-control" name="sel" 
 					[(ngModel)]="contact.gender">
-					<option disabled selected value="null">Escolha o seu gênero</option>
+					<option disabled selected value="null">Escolha o gênero</option>
 					<option *ngFor="let genero of generos" [ngValue]="genero">
 						{{genero}}
 					</option>
