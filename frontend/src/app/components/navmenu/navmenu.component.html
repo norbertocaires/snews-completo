@@ -1,0 +1,6 @@
+<nav class="navbar navbar-nav mr-auto navbar-expand-lg navbar-light bg-light">
+	<div class="col-12 pull-right no-padding margin">
+		<button *ngIf="showLogout" class="btn btn-danger pull-right" (click)="logout()">Sair</button>
+		<button *ngIf="!showLogout" class="btn btn-success pull-right" (click)="logout()">Entrar</button>
+	</div>
+</nav>
