@@ -4,7 +4,15 @@ Uma aplicação web simples para gerênciar contatos. Cada contato pode possuir 
 
 ## Front-end
 
-Aplicação front-end feita em Angular, utilizando node, bootstrap, jquery.
+Aplicação front-end feita em Angular, utilizando node, bootstrap, jquery. Para rodar:
+
+```bash
+npm install
+```
+
+```bash
+ng serveng 
+```
 
 ## Back-end
 
