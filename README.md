@@ -4,7 +4,7 @@ Uma aplicação web simples para gerênciar contatos. Cada contato pode possuir 
 
 ## Front-end
 
-Aplicação front-end feita em Angular, utilizando node, bootstrap, jquery. Para rodar a aplição basta exceutar os comandos dentro do diretório 'frotend':
+Aplicação front-end feita em Angular, utilizando node e bootstrap. Para rodar a aplição basta exceutar os comandos dentro do diretório 'frotend':
 
 ```bash
 npm install
