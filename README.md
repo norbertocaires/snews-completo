@@ -14,6 +14,10 @@ npm install
 ng serveng 
 ```
 
+A aplicação responde pela url: http://localhost:4200/
+Para fazer o login, basta clicar em CONFIRMAR, não é necessário escreve os dados de Usuário e Senha.
+
+
 ## Back-end
 
 O módulo back-end dessa aplicação utiliza [Spring Boot](https://spring.io/projects/spring-boot/) e [Spring Data Rest](https://projects.spring.io/spring-data-rest/) para gerar uma API Rest que persiste os dados em um banco de dados [H2](http://www.h2database.com/) em memória.
